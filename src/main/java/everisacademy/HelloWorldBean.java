@@ -14,7 +14,7 @@ public class HelloWorldBean implements Serializable {
 	 */
 	private static final long serialVersionUID = -8425256913664822653L;
 
-	private String message = "mechelas";
+	private String message = "Hello Everis HPC Academy!";
 
 	public String getMessage() {
 		return message;
